@@ -45,7 +45,7 @@
     "solid-icons": "^1.1.0",
     "solid-js": "^1.8.17",
     "terracotta": "^1.0.5",
-    "@hey-api/openapi-ts": "^0.48.2",
+    "@hey-api/openapi-ts": "^0.97.3",
     "config": "*",
     "typescript": "^5.0.4"
   }
