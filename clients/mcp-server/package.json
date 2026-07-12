@@ -19,7 +19,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "0.6.0",
+    "@modelcontextprotocol/sdk": "1.26.0",
     "trieve-ts-sdk": "^0.0.92",
     "dotenv": "^16.4.1",
     "mcp-evals": "^1.0.18"
