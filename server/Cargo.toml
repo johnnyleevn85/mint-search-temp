@@ -138,7 +138,7 @@ base64 = "0.22.0"
 itertools = "0.13.0"
 redis = { version = "0.25", features = ["tokio-rustls-comp", "aio"] }
 reqwest = { version = "0.12.2", features = ["json"] }
-rand = "0.8.5"
+rand = "0.9.1"
 dotenvy = "0.15.7"
 simsearch = "0.2.4"
 lazy_static = "1.4.0"
